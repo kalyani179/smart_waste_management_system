@@ -12,8 +12,3 @@ The algorithm can distinguish PET, plastic, light_bulb, paper and cardboard garb
 5. Import, and fix the generated iamges manually in CVAT
 6. Retrain the model on the larger dataset
 7. Process the video
-
-## Tested models
-1. yolov4 Results: https://www.youtube.com/watch?v=iumbdbNbZsM
-- [ ] EfficientDet D0
-- [ ] yolov3
